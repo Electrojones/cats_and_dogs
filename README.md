@@ -1,4 +1,4 @@
 # cats_and_dogs
-Distinguish cats and dogs. Really funny. I'm serious!
+Distinguish cats and dogs with an AI: A CNN built with keras/tensorflow/python.
 
-Don't worry about data. I decided not to include it, so go and get it yourself
+There sadly there is not dataset in this repository. I decided not to include it due to copyright issues, so go and get it yourself
